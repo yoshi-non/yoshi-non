@@ -9,7 +9,7 @@
 ### 開発中
 
 | レポジトリ名(URL) | 概要 | 言語・FW |
-| --- | --- |
+| --- | --- | --- |
 | [attend-app](https://github.com/yoshi-non/attend-app) | 勤怠アプリ | Next.js/Go |
 
 ### 制作物
