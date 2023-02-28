@@ -8,5 +8,5 @@
 
 ### Repositories
 
-<a href="https://github.com/yoshi-non/ChatGPT-LINEbot"><h1 style="width:380px">ChatGPT-LINEbot</h1>
+<a href="https://github.com/yoshi-non/ChatGPT-LINEbot"><h1 style="width:380px border-color:#d0d7de">ChatGPT-LINEbot</h1>
 <a href="https://github.com/YoutubeLiveWidget/YoutubeLiveWidget"><h1 style="width:380px">YoutubeLiveWidget</h1>
