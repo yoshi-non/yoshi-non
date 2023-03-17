@@ -12,7 +12,6 @@
 | --- | --- | --- |
 | [attend-app](https://github.com/yoshi-non/attend-app) | 勤怠アプリ | Next.js/Go |
 | [hal-library](https://github.com/hal-library/hal-library) | 学校の図書館オンラインサイト<br>※教師の時間の都合上完成は4月以降になります | Next.js |
-| [vending-machine](https://github.com/Anti-Meteor-Fall/vending-machine) | 進級作品の自販機システム | Next.js/Django |
 
 ### 制作物
 
@@ -21,6 +20,7 @@
 | [YoutubeLiveWidget](https://github.com/YoutubeLiveWidget/YoutubeLiveWidget) | サポーターズハッカソンVol.11の制作物<br>Youtubeのライブ配信状態がわかるホームウィジェット | Java |
 | [mudadukai-checker](https://github.com/TechCafe-TeamC/mudadukai-checker) | テックカフェハッカソンの制作物<br>使用した金額の3Dモデルの可視化アプリ | Next.js/Firebase |
 | [ChatGPT-LINEbot](https://github.com/yoshi-non/ChatGPT-LINEbot) | ChatGPTのLINEボット | Express |
+| [vending-machine](https://github.com/Anti-Meteor-Fall/vending-machine) | 進級作品の自販機システム | Next.js/Django |
 | [flacha](https://github.com/yoshi-non/flacha) | サポーターズハッカソンVol.9の制作物<br>スパチャでフラッシュ暗算を行うアプリ | Next.js/Express |
 | [majikaru-mirai](https://github.com/yoshi-non/majikaru-mirai) | 2022年のマジカルミライのコンテスト作品<br>音楽と連動するタイピングゲーム | JavaScript |
 | [engame](https://github.com/yoshi-non/engame) | エンジニア用のクイズゲームなど | Next.js/MicroCMS |
