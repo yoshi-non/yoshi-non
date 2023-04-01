@@ -10,9 +10,8 @@
 
 | レポジトリ名(URL) | 概要 | 言語・FW |
 | --- | --- | --- |
-<!-- | [attend-app](https://github.com/yoshi-non/attend-app) | 勤怠アプリ | Next.js/Go | -->
 | [hal-library](https://github.com/hal-library/hal-library) | 学校の図書館オンラインサイト<br>※教師の時間の都合上完成は4月以降になります | Next.js |
-
+<!-- | [attend-app](https://github.com/yoshi-non/attend-app) | 勤怠アプリ | Next.js/Go | -->
 ### 制作物
 
 | レポジトリ名(URL) | 概要 | 言語・FW |
