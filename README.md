@@ -17,7 +17,7 @@
 | レポジトリ名(URL) | 概要 | 言語・FW |
 | --- | --- | --- |
 | [YoutubeLiveWidget](https://github.com/YoutubeLiveWidget/YoutubeLiveWidget) | サポーターズハッカソンVol.11の制作物<br>Youtubeのライブ配信状態がわかるホームウィジェット | Java |
-| [mudadukai-checker](https://github.com/TechCafe-TeamC/mudadukai-checker) | テックカフェハッカソンの制作物<br>使用した金額の3Dモデルの可視化アプリ | Next.js/Firebase |
+| [mudadukai-checker](https://mudadukai-checker-tau.vercel.app/) | テックカフェハッカソンの制作物<br>使用した金額の3Dモデルの可視化アプリ | Next.js/Firebase |
 | [ChatGPT-LINEbot](https://github.com/yoshi-non/ChatGPT-LINEbot) | ChatGPTのLINEボット | Express |
 | [vending-machine](https://github.com/Anti-Meteor-Fall/vending-machine) | 進級作品の自販機システム | Next.js/Django |
 | [flacha](https://github.com/yoshi-non/flacha) | サポーターズハッカソンVol.9の制作物<br>スパチャでフラッシュ暗算を行うアプリ | Next.js/Express |
