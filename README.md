@@ -10,12 +10,14 @@
 
 | レポジトリ名(URL) | 概要 | 言語・FW |
 | --- | --- | --- |
+| [Price Quest](https://github.com/GeekCAMPvol2) | マンスリーハッカソンVol.2の制作物<br>商品の料金当てゲーム | Next.js/Firebase/Go |
 | [hal-library](https://github.com/hal-library/hal-library) | 学校の図書館オンラインサイト<br>※教師の時間の都合上完成は4月以降になります | Next.js |
 <!-- | [attend-app](https://github.com/yoshi-non/attend-app) | 勤怠アプリ | Next.js/Go | -->
 ### 制作物
 
 | レポジトリ名(URL) | 概要 | 言語・FW |
 | --- | --- | --- |
+| [code connect](https://github.com/GiikuCAMPvol1) | マンスリーハッカソンVol.1の制作物<br>コードを用いた連想ゲーム | Next.js/Express |
 | [github-contribution-graph](https://github.com/yoshi-non/github-contribution-graph) | GitHubの直近1年間のContributionをグラフで可視化するアプリ | Next.js |
 | [YoutubeLiveWidget](https://github.com/YoutubeLiveWidget/YoutubeLiveWidget) | サポーターズハッカソンVol.11の制作物<br>Youtubeのライブ配信状態がわかるホームウィジェット | Java |
 | [mudadukai-checker](https://mudadukai-checker.netlify.app) | テックカフェハッカソンの制作物<br>使用した金額の3Dモデルの可視化アプリ | Next.js/Firebase |
