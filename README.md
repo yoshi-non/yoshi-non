@@ -18,7 +18,7 @@
 | --- | --- | --- |
 | [Price Quest](https://github.com/GeekCAMPvol2) | マンスリーハッカソンVol.2の制作物<br>商品の料金当てゲーム | Next.js/Firebase/Go |
 | [YoutubeLiveWidget](https://github.com/YoutubeLiveWidget/YoutubeLiveWidget) | サポーターズハッカソンVol.11の制作物<br>Youtubeのライブ配信状態がわかるホームウィジェット | Java |
-| [mudadukai-checker](https://mudadukai-checker.netlify.app) | テックカフェハッカソンの制作物<br>使用した金額の3Dモデルの可視化アプリ | Next.js/Firebase |
+| [mudadukai-checker](https://github.com/TechCafe-TeamC/mudadukai-checker) | テックカフェハッカソンの制作物<br>使用した金額の3Dモデルの可視化アプリ | Next.js/Firebase |
 | [vending-machine](https://github.com/Anti-Meteor-Fall/vending-machine) | 進級作品の自販機システム | Next.js/Django |
 | [majikaru-mirai](https://github.com/yoshi-non/majikaru-mirai) | 2022年のマジカルミライのコンテスト作品<br>音楽と連動するタイピングゲーム | JavaScript |
 | [engame](https://github.com/yoshi-non/engame) | エンジニア用のクイズゲームなど | Next.js/MicroCMS |
